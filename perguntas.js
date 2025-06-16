@@ -24,5 +24,5 @@ function criaCartao(categoria, pergunta, resposta) {
 }
 
 criaCartao("História", "Quem foi Tiradentes?", "Um dos líderes da Inconfidência Mineira.");
-criaCartao("Matemática", "Qual é a raiz quadrada de 81?", "É 9.");
-criaCartao("Ciências", "O que é fotossíntese?", "É o processo pelo qual as plantas produzem seu próprio alimento.");
+criaCartao("Matemática", "Qual é a raiz quadrada de 324?", "É 18.");
+criaCartao("Ciências", "Qual a função de um adjetivo em um frase?", "qualificar ou caracterizar um substantivo.");
